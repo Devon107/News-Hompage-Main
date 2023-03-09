@@ -15,7 +15,7 @@
     text-decoration: none;
 }
 body{
-    background-color: #fff;
+    background-color: var(--Offwhite);
     font-family: 'Inter', sans-serif;
     font-size:15px;
     line-height: 25px;
